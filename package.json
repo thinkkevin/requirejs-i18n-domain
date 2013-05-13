@@ -1,0 +1,28 @@
+{
+  "name": "requirejs-i18n-domain",
+  "version": "0.0.1",
+  "description": "Customized RequireJS i18n plugin with extending support for domians",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thinkkevin/requirejs-i18n-domain"
+  },
+  "keywords": [
+    "requirejs",
+    "i18n",
+    "domain"
+  ],
+  "author": "qinguo@ebay.com",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-connect": "~0.2.0",
+    "grunt-contrib-jshint": "~0.3.0"
+  }
+}
