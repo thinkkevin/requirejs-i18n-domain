@@ -1,7 +1,7 @@
 {
   "name": "requirejs-i18n-domain",
   "version": "0.0.1",
-  "main": "i18n.js",
+  "main": "./i18n.js",
   "ignore": [
     "**/.*",
     "node_modules",
